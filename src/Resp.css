@@ -1,0 +1,175 @@
+@media (max-width: 1230px) {
+  html {
+    font-size: 56%;
+  }
+}
+@media (max-width: 1102px) {
+  .icons h4 {
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 1000px) {
+  html {
+    font-size: 53%;
+  }
+}
+@media (max-width: 960px) {
+  .icons h4 {
+    font-size: 1rem;
+  }
+  .footer1,
+  .footer2,
+  .footer3,
+  .footer4 {
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 920px) {
+  .details4 {
+    text-align: unset;
+  }
+  .details4 h1 {
+    padding-bottom: 0;
+    text-align: center;
+    padding-top: 1rem;
+  }
+  .details4 button {
+    width: 100%;
+  }
+  .details4 h4 {
+    text-align: center;
+  }
+  .details2 {
+    flex-direction: column;
+  }
+  .sContainer .details {
+    height: 100%;
+  }
+  .sContainer .details3 {
+    justify-content: space-between;
+  }
+}
+@media (max-width: 878px) {
+  html {
+    font-size: 50%;
+  }
+}
+@media (max-width: 824px) {
+  html {
+    font-size: 45%;
+  }
+  .align-right .btn {
+    width: auto;
+  }
+}
+@media (max-width: 845px) {
+  .footer3 {
+    padding: 0 0.5rem;
+  }
+  .footer1{
+    padding-left: .5rem!important;
+  }
+  .footer{
+    flex-wrap: wrap;
+  }
+  .footer4{
+    width: 100%;
+    text-align: center;
+
+  }
+  .footer4 input{
+    width: 100%;
+  }
+  .footer4 button {
+ 
+    right: 15px;
+    top: -34px;
+    float: right;
+  
+}
+
+}
+@media(max-width:600px){
+  .sContainer img {
+    width: 28.5rem;
+}
+.icons{
+  justify-content: center;
+  align-items: center;
+}
+.icons svg {
+  font-size: 2rem;
+}
+.icons h4{
+  font-size: 2rem;
+}
+.icons2 h2 {
+  font-size: 2rem;
+  text-align: center;
+  
+}
+.icons2 p{
+  text-align: center;
+}
+.details3 .image {
+  padding-right: 0rem;
+ 
+}
+.head h1 {
+ 
+  text-align: center;
+}
+.details3 img {
+  width: 100%;
+}
+.details3{
+  flex-direction: column;
+}
+}
+@media(max-width:700px){
+  .nav-item li{
+    display: none;
+  }
+  .HamBMM{
+    display: block;
+    width: 90px;
+  }
+  #hamBg {
+    margin-right: 0;
+    padding: 0;
+  }
+  .IT .mIcon {
+    
+    font-size: 3.5rem;
+  }
+
+  #tHam{
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+  }
+ 
+  .ibtn svg{
+    font-size: 32px;
+  }
+  
+  
+.wrapItems  .lk1 {
+  padding: 1rem;
+  font-size: 2rem;
+}
+}
+@media(max-width:400px){
+  .footer1 p {
+    max-width: 19rem;
+}
+.sContainer .btn-dark{
+  width: 11rem;
+}
+}
+@media(max-width:398px){
+  .align-right .btn {
+  
+    font-size: 1.2rem;
+  }
+}
